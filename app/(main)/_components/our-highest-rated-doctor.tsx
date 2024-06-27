@@ -64,20 +64,22 @@ const OurHighestRatedDoctors = (props: Props) => {
       <div className="px-0 mt-5">
         <Carousel>
           <CarouselContent>
-            {/* <CarouselItem className="md:basis-1/3">
-              <DoctorCard />
-            </CarouselItem>
-            <CarouselItem className="md:basis-1/3">
-              <DoctorCard />
-            </CarouselItem>
-            <CarouselItem className="md:basis-1/3">
-              <DoctorCard />
-            </CarouselItem> */}
             {
               doctors?.map((doctor:DoctorCardsProps, index:number) => {
                 return (
                   <CarouselItem key={index} className="md:basis-1/3">
-                    <DoctorCard {...doctor} />
+                    <DoctorCard 
+                      name={doctor.name}
+                      speciality={doctor.speciality}
+                      title={doctor.title}
+                      rating={doctor.rating}
+                      ratingTitle={doctor.ratingTitle}
+                      viewCount={doctor.viewCount}
+                      location={doctor.location}
+                      specialities={doctor.specialities}
+                      image={doctor.image}
+                      onClick={doctor.onClick}
+                    />
                   </CarouselItem>
                 )
               })
