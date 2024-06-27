@@ -14,7 +14,7 @@ type Props = {};
 
 const OurHighestRatedDoctors = (props: Props) => {
 
-  const doctors: DoctorCardsProps = [
+  const doctors = [
     {
       name: 'Sezer Bölük',
       speciality: 'Prof. Dr.',
@@ -24,7 +24,8 @@ const OurHighestRatedDoctors = (props: Props) => {
       viewCount: 1250,
       location: 'Ankara',
       specialities: ['Nöroloji', 'Nöroşirurji'],
-      image: doctor_1
+      image: doctor_1,
+      onClick: () => {}
     },
     {
       name: 'Abdullah Savran',
@@ -36,6 +37,7 @@ const OurHighestRatedDoctors = (props: Props) => {
       location: 'İstanbul',
       image: doctor_2,
       specialities: ['Otoloji ve Nörootoloji', 'Rinoloji', 'Laringoloji'],
+      onClick: () => {}
     },
     {
       name: 'Aleyna Ay',
@@ -46,7 +48,8 @@ const OurHighestRatedDoctors = (props: Props) => {
       viewCount: 764,
       location: 'İzmir',
       image: doctor_3,
-      specialities: ['Ortodonti', 'Estetik Diş Hekimliği']
+      specialities: ['Ortodonti', 'Estetik Diş Hekimliği'],
+      onClick: () => {}
 
 
     }
