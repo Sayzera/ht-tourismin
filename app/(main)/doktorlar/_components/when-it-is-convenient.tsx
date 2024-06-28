@@ -24,7 +24,7 @@ export default function WhenItIsConvenient({
               <div 
               key={'date'+index}
               className="w-[60px] h-[30px] text-sm bg-blue-500 flex items-center text-white justify-center hover:bg-white hover:text-blue-500 hover:underline hover:border hover:border-gray-300 cursor-pointer">
-              <span> 12:30</span>
+              <span> {item}</span>
             </div>
           ))
           }
