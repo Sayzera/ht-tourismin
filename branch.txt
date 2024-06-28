@@ -1,0 +1,2030 @@
+{
+  "total": 182,
+  "items": [
+    {
+      "id": 19,
+      "branchOrder": 1,
+      "title": "Kadın Hastalıkları ve Doğum",
+      "slug": "kadin-hastaliklari-ve-dogum",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 14,
+      "branchOrder": 2,
+      "title": "Genel Cerrahi",
+      "slug": "genel-cerrahi",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 32,
+      "branchOrder": 3,
+      "title": "Psikiyatri",
+      "slug": "psikiyatri",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1039,
+      "branchOrder": 4,
+      "title": "Romatoloji",
+      "titleSeo": "Romatoloji",
+      "titleSpecial": "Romatolog",
+      "slug": "romatoloji",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 199,
+      "branchOrder": 4,
+      "title": "Psikolojik Danışman",
+      "titleSeo": "Psikolojik Danışman",
+      "titleSpecial": "Psikolojik Danışman",
+      "slug": "psikolojik-danisman",
+      "group": {
+        "id": 31,
+        "groupName": "Psikolojik Danışman"
+      }
+    },
+    {
+      "id": 1026,
+      "branchOrder": 4,
+      "title": "Tıbbi Onkoloji",
+      "titleSeo": "Tıbbi Onkoloji",
+      "titleSpecial": "Tıbbi onkolog",
+      "slug": "tibbi-onkoloji",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 50,
+      "branchOrder": 4,
+      "title": "Diyetisyen",
+      "slug": "diyetisyen",
+      "group": {
+        "id": 7,
+        "groupName": "Diyetisyen"
+      }
+    },
+    {
+      "id": 8,
+      "branchOrder": 5,
+      "title": "Dahiliye - İç Hastalıkları",
+      "slug": "dahiliye-ve-ic-hastaliklari",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 198,
+      "branchOrder": 5,
+      "title": "Klinik Psikolog",
+      "titleSeo": "Klinik Psikolog",
+      "titleSpecial": "Klinik Psikolog",
+      "slug": "klinik-psikolog",
+      "group": {
+        "id": 6,
+        "groupName": "Psikolog"
+      }
+    },
+    {
+      "id": 10,
+      "branchOrder": 6,
+      "title": "Diş Hekimi",
+      "slug": "dis-hekimi",
+      "group": {
+        "id": 2,
+        "groupName": "Diş Hekimliği"
+      }
+    },
+    {
+      "id": 9,
+      "branchOrder": 7,
+      "title": "Dermatoloji",
+      "slug": "dermatoloji",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 4,
+      "branchOrder": 8,
+      "title": "Beyin ve Sinir Cerrahisi",
+      "slug": "beyin-ve-sinir-cerrahisi",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 29,
+      "branchOrder": 9,
+      "title": "Plastik Rekonstrüktif ve Estetik Cerrahi",
+      "slug": "plastik-rekonstruktif-ve-estetik-cerrahi",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 17,
+      "branchOrder": 10,
+      "title": "Göz Hastalıkları",
+      "slug": "goz-hastaliklari",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 22,
+      "branchOrder": 11,
+      "title": "Kulak Burun Boğaz hastalıkları - KBB",
+      "slug": "kulak-burun-bogaz-hastaliklari",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 21,
+      "branchOrder": 12,
+      "title": "Kardiyoloji",
+      "slug": "kardiyoloji",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 175,
+      "branchOrder": 12,
+      "title": "Geleneksel ve Tamamlayıcı Tıp",
+      "titleSeo": "Geleneksel ve Tamamlayıcı Tıp",
+      "titleSpecial": "Geleneksel ve Tamamlayıcı Tıp",
+      "slug": "geleneksel-ve-tamamlayici-tip",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 20,
+      "branchOrder": 13,
+      "title": "Kalp Damar Cerrahisi",
+      "slug": "kalp-damar-cerrahisi",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 16,
+      "branchOrder": 14,
+      "title": "Göğüs Hastalıkları",
+      "slug": "gogus-hastaliklari",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 6,
+      "branchOrder": 15,
+      "title": "Çocuk Sağlığı ve Hastalıkları",
+      "slug": "cocuk-sagligi-ve-hastaliklari",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 46,
+      "branchOrder": 16,
+      "title": "Psikoloji",
+      "slug": "psikoloji",
+      "group": {
+        "id": 6,
+        "groupName": "Psikolog"
+      }
+    },
+    {
+      "id": 35,
+      "branchOrder": 17,
+      "title": "Üroloji",
+      "slug": "uroloji",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 15,
+      "branchOrder": 18,
+      "title": "Göğüs Cerrahisi",
+      "slug": "gogus-cerrahisi",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1216,
+      "branchOrder": 98,
+      "title": "Pediatrik Fizyoterapi",
+      "titleSeo": "Pediatrik Fizyoterapi",
+      "titleSpecial": "Pediatrik Fizyoterapi",
+      "slug": "pediatrik-fizyoterapi",
+      "group": {
+        "id": 10,
+        "groupName": "Fizyoterapist"
+      }
+    },
+    {
+      "id": 24,
+      "branchOrder": 99,
+      "title": "Nöroloji (Beyin ve Sinir Hastalıkları)",
+      "slug": "noroloji",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 25,
+      "branchOrder": 99,
+      "title": "Nükleer Tıp",
+      "slug": "nukleer-tip",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 52,
+      "branchOrder": 99,
+      "title": "Çocuk ve Ergen Psikiyatristi",
+      "slug": "cocuk-psikiyatrisi",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 60,
+      "branchOrder": 99,
+      "title": "Fizyoloji",
+      "slug": "fizyoloji",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 84,
+      "branchOrder": 99,
+      "title": "Acil Tıp",
+      "slug": "acil-tip",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 116,
+      "branchOrder": 99,
+      "title": "Anatomi",
+      "slug": "anatomi",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 172,
+      "branchOrder": 99,
+      "title": "Asistan Diş Hekimi",
+      "slug": "asistan-dis-hekimi",
+      "group": {
+        "id": 9,
+        "groupName": "Asistan Diş Hekimi"
+      }
+    },
+    {
+      "id": 183,
+      "branchOrder": 99,
+      "title": "Satış Müdürü",
+      "slug": "satis-muduru",
+      "group": {
+        "id": 27,
+        "groupName": "Ekip Üyesi"
+      }
+    },
+    {
+      "id": 190,
+      "branchOrder": 99,
+      "title": "Aile Danışmanı",
+      "slug": "aile-danismani",
+      "group": {
+        "id": 29,
+        "groupName": "Aile Danışmanı"
+      }
+    },
+    {
+      "id": 1013,
+      "branchOrder": 99,
+      "title": "Gastroenteroloji",
+      "titleSeo": "Gastroenteroloji",
+      "titleSpecial": "Gastroenterelog",
+      "slug": "gastroenteroloji",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1055,
+      "branchOrder": 99,
+      "title": "Endokrinoloji ve Metabolizma Hastalıkları",
+      "titleSeo": "Endokrinoloji ve Metabolizma Hastalıkları",
+      "titleSpecial": "Endokrinolog",
+      "slug": "endokrinoloji-ve-metabolizma-hastaliklari",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1115,
+      "branchOrder": 99,
+      "title": "Çocuk Göğüs Hastalıkları",
+      "titleSeo": "Çocuk Göğüs Hastalıkları",
+      "titleSpecial": "Çocuk göğüs uzmanı",
+      "slug": "cocuk-gogus-hastaliklari",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1136,
+      "branchOrder": 99,
+      "title": "Alerji ve Göğüs Hastalıkları",
+      "titleSeo": "Alerji ve Göğüs Hastalıkları",
+      "titleSpecial": "Alerji uzmanı",
+      "slug": "alerji-ve-gogus-hastaliklari",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1145,
+      "branchOrder": 99,
+      "title": "Çocuk Ürolojisi (Cerrahi)",
+      "titleSeo": "Çocuk Ürolojisi (Cerrahi)",
+      "titleSpecial": "Çocuk cerrahisi ürolog",
+      "slug": "cocuk-cerrahisi-cocuk-urolojisi",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1146,
+      "branchOrder": 99,
+      "title": "Çocuk Romatolojisi",
+      "titleSeo": "Çocuk Romatolojisi",
+      "titleSpecial": "Çocuk romatoloğu",
+      "slug": "cocuk-romatolojisi",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1147,
+      "branchOrder": 99,
+      "title": "İmmünoloji (Tıp mikrobiyoloji)",
+      "titleSeo": "İmmünoloji (Tıp mikrobiyoloji)",
+      "titleSpecial": "İmmünolog",
+      "slug": "tibbi-mikrobiyoloji-immunoloji",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1156,
+      "branchOrder": 99,
+      "title": "Toksikoloji",
+      "titleSeo": "Toksikoloji",
+      "titleSpecial": "Toksikoloji uzmanı",
+      "slug": "toksikoloji",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1159,
+      "branchOrder": 99,
+      "title": "Nöroradyoloji",
+      "titleSeo": "Nöroradyoloji",
+      "titleSpecial": "Nöroradyolog",
+      "slug": "nororadyoloji",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1161,
+      "branchOrder": 99,
+      "title": "Algoloji (Noroloji)",
+      "titleSeo": "Algoloji (Noroloji)",
+      "titleSpecial": "Algolog - nörolog",
+      "slug": "noroloji-algoloji",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1164,
+      "branchOrder": 99,
+      "title": "Çocuk Kalp ve Damar Cerrahisi",
+      "titleSeo": "Çocuk Kalp ve Damar Cerrahisi",
+      "titleSpecial": "Çocuk kalp damar uzmanı",
+      "slug": "cocuk-kalp-ve-damar-cerrahisi",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1167,
+      "branchOrder": 99,
+      "title": "Yoğun Bakım (Göğüs Hastalıkları ve Yoğun Bakım )",
+      "titleSeo": "Yoğun Bakım (Göğüs Hastalıkları ve Yoğun Bakım )",
+      "titleSpecial": "Göğüs yoğun bakım",
+      "slug": "gogus-hastaliklari-yogun-bakim",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1169,
+      "branchOrder": 99,
+      "title": "Tüberküloz, Allerjik Hastalıklar",
+      "titleSeo": "Tüberküloz, Allerjik Hastalıklar",
+      "titleSpecial": "Tüberküloz doktoru",
+      "slug": "tuberkuloz-allerjik-hastaliklar",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1172,
+      "branchOrder": 99,
+      "title": "Romatoloji (Fiziksel tıp ve Rehabilitasyon)",
+      "titleSeo": "Romatoloji (Fiziksel tıp ve Rehabilitasyon)",
+      "titleSpecial": "Fizik tedavi romatoloji uzmanı",
+      "slug": "fiziksel-tip-ve-rehabilitasyon-romatoloji",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1174,
+      "branchOrder": 99,
+      "title": "Çocuk Acil",
+      "titleSeo": "Çocuk Acil",
+      "titleSpecial": "Çocuk acil hekimi",
+      "slug": "cocuk-acil",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1185,
+      "branchOrder": 99,
+      "title": "Pedodonti (Çocuk Diş Hekimliği)",
+      "titleSeo": "Pedodonti (Çocuk Diş Hekimliği)",
+      "titleSpecial": "Pedodontist",
+      "slug": "pedodonti",
+      "group": {
+        "id": 2,
+        "groupName": "Diş Hekimliği"
+      }
+    },
+    {
+      "id": 1210,
+      "branchOrder": 99,
+      "title": "Meme Radyolojisi",
+      "titleSeo": "Meme Radyolojisi",
+      "titleSpecial": "Meme radyologu",
+      "slug": "meme-radyolojisi",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1212,
+      "branchOrder": 99,
+      "title": "Yoğun Bakım",
+      "titleSeo": "Yoğun Bakım",
+      "titleSpecial": "Yoğun Bakım",
+      "slug": "yogun-bakim",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 5,
+      "branchOrder": 99,
+      "title": "Tıbbi Biyokimya",
+      "slug": "tibbi-biyokimya",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 12,
+      "branchOrder": 99,
+      "title": "Fiziksel Tıp ve Rehabilitasyon",
+      "slug": "fiziksel-tip-ve-rehabilitasyon",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 34,
+      "branchOrder": 99,
+      "title": "Tıbbi Genetik",
+      "slug": "tibbi-genetik",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 59,
+      "branchOrder": 99,
+      "title": "Halk Sağlığı",
+      "slug": "halk-sagligi",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 62,
+      "branchOrder": 99,
+      "title": "Sualtı Hekimliği ve Hiperbarik Tıp",
+      "slug": "sualti-hekimligi-ve-hiperbarik-tip",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 100,
+      "branchOrder": 99,
+      "title": "Spor Hekimliği",
+      "slug": "spor-hekimligi",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 127,
+      "branchOrder": 99,
+      "title": "Hava ve Uzay Hekimliği",
+      "slug": "hava-ve-uzay-hekimligi",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 168,
+      "branchOrder": 99,
+      "title": "Çevre Sağlığı",
+      "slug": "cevre-sagligi",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 200,
+      "branchOrder": 99,
+      "title": "Gerontoloji",
+      "slug": "gerontoloji",
+      "group": {
+        "id": 32,
+        "groupName": "Gerontolog"
+      }
+    },
+    {
+      "id": 1067,
+      "branchOrder": 99,
+      "title": "Çocuk Gastroenteroloji, Hepatoloji ve Beslenme",
+      "titleSeo": "Çocuk Gastroenteroloji, Hepatoloji ve Beslenme",
+      "titleSpecial": "Çocuk gastroentereloğu",
+      "slug": "cocuk-gastroenterolojisi",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1081,
+      "branchOrder": 99,
+      "title": "Geriatri",
+      "titleSeo": "Geriatri",
+      "titleSpecial": "Geriatri uzmanı",
+      "slug": "geriatri",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1117,
+      "branchOrder": 99,
+      "title": "Perinatoloji - Riskli Gebelikler",
+      "titleSeo": "Perinatoloji - Riskli Gebelikler",
+      "titleSpecial": "Perinatolog",
+      "slug": "perinatoloji",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1143,
+      "branchOrder": 99,
+      "title": "Çocuk Genetik Hastalıkları",
+      "titleSeo": "Çocuk Genetik Hastalıkları",
+      "titleSpecial": "Çocuk genetik uzmanı",
+      "slug": "cocuk-genetik-hastaliklari",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1153,
+      "branchOrder": 99,
+      "title": "Klinik Sitogenetik",
+      "titleSeo": "Klinik Sitogenetik",
+      "titleSpecial": "Klinik sitogenetik uzmanı",
+      "slug": "klinik-sitogenetik",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1157,
+      "branchOrder": 99,
+      "title": "Girişimsel Radyoloji",
+      "titleSeo": "Girişimsel Radyoloji",
+      "titleSpecial": "Girişimsel radyolog",
+      "slug": "girisimsel-radyoloji",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1158,
+      "branchOrder": 99,
+      "title": "Pediyatrik Radyoloji",
+      "titleSeo": "Pediyatrik Radyoloji",
+      "titleSpecial": "Çocuk radyolojisi",
+      "slug": "pediyatrik-radyoloji",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1171,
+      "branchOrder": 99,
+      "title": "Algoloji (Fiziksel Tıp ve Rehabilitasyon)",
+      "titleSeo": "Algoloji (Fiziksel Tıp ve Rehabilitasyon)",
+      "titleSpecial": "Fizik tedavi algoloji uzmanı",
+      "slug": "fiziksel-tip-ve-rehabilitasyon-algoloji",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1177,
+      "branchOrder": 99,
+      "title": "Yoğun Bakım (İç Hastalıkları Yoğun Bakım)",
+      "titleSeo": "Yoğun Bakım (İç Hastalıkları Yoğun Bakım)",
+      "titleSpecial": "Yoğun bakım uzmanı",
+      "slug": "ic-hastaliklari-yogun-bakim",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1186,
+      "branchOrder": 99,
+      "title": "Koruyucu Diş Hekimliği (Çocuk Diş Hekimliği)",
+      "titleSeo": "Koruyucu Diş Hekimliği (Çocuk Diş Hekimliği)",
+      "titleSpecial": "Koruyucu diş hekimi",
+      "slug": "koruyucu-dis-hekimlig",
+      "group": {
+        "id": 2,
+        "groupName": "Diş Hekimliği"
+      }
+    },
+    {
+      "id": 1189,
+      "branchOrder": 99,
+      "title": "Restoratif Diş Tedavileri",
+      "titleSeo": "Restoratif Diş Tedavileri",
+      "titleSpecial": "Restoratif diş tedavisi uzmanı",
+      "slug": "restoratif-dis-tedavisi",
+      "group": {
+        "id": 2,
+        "groupName": "Diş Hekimliği"
+      }
+    },
+    {
+      "id": 1191,
+      "branchOrder": 99,
+      "title": "Proktoloji",
+      "titleSeo": "Proktoloji",
+      "titleSpecial": "Proktolog",
+      "slug": "proktoloji",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1195,
+      "branchOrder": 99,
+      "title": "Damar Cerrahisi",
+      "titleSeo": "Damar Cerrahisi",
+      "titleSpecial": "Damar cerrahı",
+      "slug": "damar-cerrahisi",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1200,
+      "branchOrder": 99,
+      "title": "Çocuk Endokrinolojisi",
+      "titleSeo": "Çocuk Endokrinolojisi",
+      "titleSpecial": "Çocuk endokrinoloji uzmanı",
+      "slug": "cocuk-endokrinolojisi",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1203,
+      "branchOrder": 99,
+      "title": "Gelişimsel Pediatri",
+      "titleSeo": "Gelişimsel Pediatri",
+      "slug": "gelisimsel-pediatri",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1205,
+      "branchOrder": 99,
+      "title": "Üroradyoloji",
+      "titleSeo": "Üroradyoloji",
+      "titleSpecial": "uroradyoloji",
+      "slug": "uroradyoloji",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1213,
+      "branchOrder": 99,
+      "title": "Baş ve Boyun Cerrahisi",
+      "titleSeo": "Baş ve Boyun Cerrahisi",
+      "titleSpecial": "Baş ve Boyun Cerrahisi",
+      "slug": "bas-ve-boyun-cerrahisi",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 27,
+      "branchOrder": 99,
+      "title": "Ortopedi ve Travmatoloji",
+      "slug": "ortopedi-ve-travmatoloji",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 57,
+      "branchOrder": 99,
+      "title": "Fizyoterapi",
+      "slug": "fizyoterapi",
+      "group": {
+        "id": 10,
+        "groupName": "Fizyoterapist"
+      }
+    },
+    {
+      "id": 161,
+      "branchOrder": 99,
+      "title": "Klinik Biyokimya",
+      "slug": "klinik-biyokimya",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 162,
+      "branchOrder": 99,
+      "title": "Çocuk Gelişim Uzmanı",
+      "titleSeo": "Çocuk Gelişim Uzmanı",
+      "titleSpecial": "Çocuk Gelişim Uzmanı",
+      "slug": "cocuk-gelisim-uzmani",
+      "group": {
+        "id": 17,
+        "groupName": "Çocuk Gelişim Uzmanı"
+      }
+    },
+    {
+      "id": 163,
+      "branchOrder": 99,
+      "title": "Pedagoji",
+      "slug": "pedagoji",
+      "group": {
+        "id": 16,
+        "groupName": "Pedagog"
+      }
+    },
+    {
+      "id": 169,
+      "branchOrder": 99,
+      "title": "Akupunktur",
+      "slug": "akupunktur",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 176,
+      "branchOrder": 99,
+      "title": "Biyolog",
+      "slug": "biyolog",
+      "group": {
+        "id": 14,
+        "groupName": "Biyolog"
+      }
+    },
+    {
+      "id": 178,
+      "branchOrder": 99,
+      "title": "Cinsel Terapi Sertifikalı Tıp Doktoru",
+      "slug": "cinsel-terapi-sertifikali-tip-doktoru",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 180,
+      "branchOrder": 99,
+      "title": "Hemodiyaliz",
+      "slug": "hemodiyaliz",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1094,
+      "branchOrder": 99,
+      "title": "Çocuk İmmünolojisi ve Alerjisi",
+      "titleSeo": "Çocuk İmmünolojisi ve Alerjisi",
+      "titleSpecial": "Çocuk immünoloğu",
+      "slug": "cocuk-immunolojisi-ve-alerji-hastaliklari",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1113,
+      "branchOrder": 99,
+      "title": "El Cerrahisi ve Mikrocerrahi",
+      "titleSeo": "El Cerrahisi ve Mikrocerrahi",
+      "titleSpecial": "El cerrahı",
+      "slug": "el-cerrahisi-ve-mikrocerrahi",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1151,
+      "branchOrder": 99,
+      "title": "Androloji",
+      "titleSeo": "Androloji",
+      "titleSpecial": "Androloji uzmanı",
+      "slug": "androloji",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1152,
+      "branchOrder": 99,
+      "title": "Klinik Moleküler Genetik",
+      "titleSeo": "Klinik Moleküler Genetik",
+      "titleSpecial": "Molekülergenetik uzmanı",
+      "slug": "klinik-molekuler-genetik",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1163,
+      "branchOrder": 99,
+      "title": "Nöropatoloji",
+      "titleSeo": "Nöropatoloji",
+      "titleSpecial": "Nöropatalog",
+      "slug": "noropatoloji",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1165,
+      "branchOrder": 99,
+      "title": "Üreme Endokrinolojisi ve İnfertilite",
+      "titleSeo": "Üreme Endokrinolojisi ve İnfertilite",
+      "titleSpecial": "Üreme endokrinoloğu",
+      "slug": "ureme-endokrinolojisi-ve-infertilite",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1166,
+      "branchOrder": 99,
+      "title": "İşyeri Hekimliği",
+      "titleSeo": "İşyeri Hekimliği",
+      "titleSpecial": "İşyeri hekimi",
+      "slug": "isyeri-hekimligi",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1176,
+      "branchOrder": 99,
+      "title": "Alerji Hastalıkları",
+      "titleSeo": "Alerji Hastalıkları",
+      "titleSpecial": "Alerji doktoru",
+      "slug": "alerji-hastaliklari",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1178,
+      "branchOrder": 99,
+      "title": "Enfeksiyon Hastalıkları",
+      "titleSeo": "Enfeksiyon Hastalıkları",
+      "titleSpecial": "Enfeksiyon hastalıkları uzmanı",
+      "slug": "enfeksiyon-hastaliklari",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1190,
+      "branchOrder": 99,
+      "title": "Meme Cerrahisi",
+      "titleSeo": "Meme Cerrahisi",
+      "titleSpecial": "Meme cerrahı",
+      "slug": "meme-cerrahisi",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1194,
+      "branchOrder": 99,
+      "title": "Fitoterapi",
+      "titleSeo": "Fitoterapi",
+      "titleSpecial": "Fitoterapi uzmanı",
+      "slug": "fitoterapi",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1198,
+      "branchOrder": 99,
+      "title": "Çocuk Ürolojisi",
+      "titleSeo": "Çocuk Ürolojisi",
+      "titleSpecial": "Çocuk üroloğu",
+      "slug": "cocuk-urolojisi-uroloji",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1,
+      "branchOrder": 99,
+      "title": "Aile Hekimliği",
+      "slug": "aile-hekimligi",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 7,
+      "branchOrder": 99,
+      "title": "Çocuk Cerrahisi",
+      "slug": "cocuk-cerrahisi",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 28,
+      "branchOrder": 99,
+      "title": "Tıbbi Patoloji",
+      "slug": "tibbi-patoloji",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 128,
+      "branchOrder": 99,
+      "title": "Veteriner",
+      "slug": "veteriner",
+      "group": {
+        "id": 3,
+        "groupName": "Veteriner Hekimi"
+      }
+    },
+    {
+      "id": 139,
+      "branchOrder": 99,
+      "title": "Tıbbi Parazitoloji",
+      "slug": "tibbi-parazitoloji",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 155,
+      "branchOrder": 99,
+      "title": "Tıbbi Ekoloji ve Hidroklimatoloji",
+      "slug": "tibbi-ekoloji-ve-hidroklimatoloji",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 158,
+      "branchOrder": 99,
+      "title": "Diğer",
+      "slug": "brans-diger",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 179,
+      "branchOrder": 99,
+      "title": "Biorezonans Sertifikalı Tıp Doktoru",
+      "slug": "biorezonans-sertifikali-tip-doktoru",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 181,
+      "branchOrder": 99,
+      "title": "Ergoterapi",
+      "slug": "ergoterapi",
+      "group": {
+        "id": 26,
+        "groupName": "Ergoterapi"
+      }
+    },
+    {
+      "id": 185,
+      "branchOrder": 99,
+      "title": "Saha Satış",
+      "slug": "saha-satis",
+      "group": {
+        "id": 27,
+        "groupName": "Ekip Üyesi"
+      }
+    },
+    {
+      "id": 187,
+      "branchOrder": 99,
+      "title": "Tıbbi ve Aromatik Bitkiler Uzmanı",
+      "slug": "tibbi-ve-aromatik-bitkiler-uzmani",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 189,
+      "branchOrder": 99,
+      "title": "Psikoterapi",
+      "slug": "psikoterapi",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 197,
+      "branchOrder": 99,
+      "title": "Fitoterapi",
+      "slug": "fitoterapi-uzmanlik",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1072,
+      "branchOrder": 99,
+      "title": "Çocuk Kardiyolojisi",
+      "titleSeo": "Çocuk Kardiyolojisi",
+      "titleSpecial": "Çocuk kardiyoloğu",
+      "slug": "cocuk-kardiyolojisi",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1101,
+      "branchOrder": 99,
+      "title": "Çocuk Enfeksiyon Hastalıkları",
+      "titleSeo": "Çocuk Enfeksiyon Hastalıkları",
+      "titleSpecial": "Çocuk enfeksiyon doktoru",
+      "slug": "cocuk-enfeksiyon-hastaliklari",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1135,
+      "branchOrder": 99,
+      "title": "İmmunoloji ve Alerji Hastalıkları",
+      "titleSeo": "İmmunoloji ve Alerji Hastalıkları",
+      "titleSpecial": "İmmünolog",
+      "slug": "immunoloji-ve-alerji-hastaliklari",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1138,
+      "branchOrder": 99,
+      "title": "Endokrin Cerrahisi",
+      "titleSeo": "Endokrin Cerrahisi",
+      "titleSpecial": "Endokrin cerrahı",
+      "slug": "endokrin-cerrahisi",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1139,
+      "branchOrder": 99,
+      "title": "Çocuk Metabolizma Hastalıkları",
+      "titleSeo": "Çocuk Metabolizma Hastalıkları",
+      "titleSpecial": "Çocuk metabolizma doktoru",
+      "slug": "cocuk-metabolizma-hastaliklari",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1140,
+      "branchOrder": 99,
+      "title": "Cerrahi Onkoloji",
+      "titleSeo": "Cerrahi Onkoloji",
+      "titleSpecial": "Cerrahi onkolog",
+      "slug": "cerrahi-onkoloji",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1142,
+      "branchOrder": 99,
+      "title": "Sitopatoloji",
+      "titleSeo": "Sitopatoloji",
+      "titleSpecial": "Sitopataloji uzmanı",
+      "slug": "sitopatoloji",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1144,
+      "branchOrder": 99,
+      "title": "Algoloji (Anestezi ve Reanimasyon)",
+      "titleSeo": "Algoloji (Anestezi ve Reanimasyon)",
+      "titleSpecial": "Algolog",
+      "slug": "algoloji-anestezi-ve-reanimasyon",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1175,
+      "branchOrder": 99,
+      "title": "Çocuk Onkolojisi",
+      "titleSeo": "Çocuk Onkolojisi",
+      "titleSpecial": "Çocuk onkoloğu",
+      "slug": "cocuk-onkolojisi",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1179,
+      "branchOrder": 99,
+      "title": "Ağız, Diş ve Çene Cerrahisi",
+      "titleSeo": "Ağız, Diş ve Çene Cerrahisi",
+      "titleSpecial": "Ağız, diş, çene cerrahı",
+      "slug": "agiz-dis-ve-cene-cerrahisi",
+      "group": {
+        "id": 2,
+        "groupName": "Diş Hekimliği"
+      }
+    },
+    {
+      "id": 1180,
+      "branchOrder": 99,
+      "title": "Periodontoloji (Dişeti Hastalıkları)",
+      "titleSeo": "Periodontoloji (Dişeti Hastalıkları)",
+      "titleSpecial": "Periodontolog",
+      "slug": "periodontoloji",
+      "group": {
+        "id": 2,
+        "groupName": "Diş Hekimliği"
+      }
+    },
+    {
+      "id": 1182,
+      "branchOrder": 99,
+      "title": "Ortodonti (Çene-Diş Bozuklukları)",
+      "titleSeo": "Ortodonti (Çene-Diş Bozuklukları)",
+      "titleSpecial": "Ortodontist",
+      "slug": "ortodonti",
+      "group": {
+        "id": 2,
+        "groupName": "Diş Hekimliği"
+      }
+    },
+    {
+      "id": 1187,
+      "branchOrder": 99,
+      "title": "Neonatoloji",
+      "titleSeo": "Neonatoloji",
+      "titleSpecial": "Neonatalog",
+      "slug": "neonatoloji",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1188,
+      "branchOrder": 99,
+      "title": "Diş Protez Uzmanı",
+      "titleSeo": "Diş Protez Uzmanı",
+      "titleSpecial": "Diş protez uzmanı",
+      "slug": "dis-protezi-uzmani",
+      "group": {
+        "id": 2,
+        "groupName": "Diş Hekimliği"
+      }
+    },
+    {
+      "id": 1192,
+      "branchOrder": 99,
+      "title": "Biorezonans",
+      "titleSeo": "Biorezonans",
+      "titleSpecial": "Biorezonans uzmanı",
+      "slug": "biorezonans",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1196,
+      "branchOrder": 99,
+      "title": "Odyoloji",
+      "titleSeo": "Odyoloji",
+      "titleSpecial": "Odyoloji uzmanı",
+      "slug": "odyoloji",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1199,
+      "branchOrder": 99,
+      "title": "Psikoonkoloji",
+      "titleSeo": "Psikoonkoloji",
+      "titleSpecial": "Psikoonkolog",
+      "slug": "psikoonkoloji",
+      "group": {
+        "id": 6,
+        "groupName": "Psikolog"
+      }
+    },
+    {
+      "id": 1202,
+      "branchOrder": 99,
+      "title": "Nörofizyoloji",
+      "titleSeo": "Nörofizyoloji",
+      "titleSpecial": "Nörofizyoloji",
+      "slug": "norofizyoloji",
+      "group": {
+        "id": 14,
+        "groupName": "Biyolog"
+      }
+    },
+    {
+      "id": 1204,
+      "branchOrder": 99,
+      "title": "Kayropraktist",
+      "titleSeo": "Kayropraktist",
+      "titleSpecial": "kayropraktist",
+      "slug": "kayropraktist",
+      "group": {
+        "id": 10,
+        "groupName": "Fizyoterapist"
+      }
+    },
+    {
+      "id": 1211,
+      "branchOrder": 99,
+      "title": "Yeni Doğan",
+      "titleSeo": "Yeni Doğan",
+      "titleSpecial": "Yeni doğan",
+      "slug": "yeni-dogan",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 3,
+      "branchOrder": 99,
+      "title": "Anestezi ve Reanimasyon",
+      "slug": "anestezi-ve-reanimasyon",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 11,
+      "branchOrder": 99,
+      "title": "Enfeksiyon Hastalıkları ve Klinik Mikrobiyoloji",
+      "slug": "enfeksiyon-hastaliklari-ve-klinik-mikrobiyoloji",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 23,
+      "branchOrder": 99,
+      "title": "Tıbbi Mikrobiyoloji",
+      "slug": "tibbi-mikrobiyoloji",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 31,
+      "branchOrder": 99,
+      "title": "Pratisyen Hekimlik",
+      "slug": "pratisyen-hekimlik",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 45,
+      "branchOrder": 99,
+      "title": "Radyoloji",
+      "slug": "radyoloji",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 47,
+      "branchOrder": 99,
+      "title": "Histoloji ve Embriyoloji",
+      "slug": "histoloji-ve-embriyoloji",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 53,
+      "branchOrder": 99,
+      "title": "Adli Tıp",
+      "slug": "adli-tip",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 61,
+      "branchOrder": 99,
+      "title": "Tıbbi Farmakoloji",
+      "slug": "tibbi-farmakoloji",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 63,
+      "branchOrder": 99,
+      "title": "Radyasyon Onkolojisi",
+      "slug": "radyasyon-onkolojisi",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 154,
+      "branchOrder": 99,
+      "title": "İş ve Meslek Hastalıkları",
+      "slug": "is-ve-meslek-hastaliklari",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 165,
+      "branchOrder": 99,
+      "title": "Dil Konuşma Bozuklukları",
+      "slug": "dil-konusma-bozuklari-b",
+      "group": {
+        "id": 19,
+        "groupName": "Dil Konuşma Bozuklukları"
+      }
+    },
+    {
+      "id": 167,
+      "branchOrder": 99,
+      "title": "Askeri Sahra Hekimliği",
+      "slug": "askeri-sahra-hekimligi",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 171,
+      "branchOrder": 99,
+      "title": "Asistan",
+      "slug": "asistan",
+      "group": {
+        "id": 8,
+        "groupName": "Asistan Doktor"
+      }
+    },
+    {
+      "id": 177,
+      "branchOrder": 99,
+      "title": "Medikal Estetik Tıp Doktoru",
+      "slug": "medikal-estetik-sertifikali-tip-doktoru",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 182,
+      "branchOrder": 99,
+      "title": "Genel Koordinatör",
+      "slug": "genel-koordinator",
+      "group": {
+        "id": 27,
+        "groupName": "Ekip Üyesi"
+      }
+    },
+    {
+      "id": 184,
+      "branchOrder": 99,
+      "title": "Marmara Bölgesi Takım Lideri",
+      "slug": "marmara-bolgesi-takim-lideri",
+      "group": {
+        "id": 27,
+        "groupName": "Ekip Üyesi"
+      }
+    },
+    {
+      "id": 186,
+      "branchOrder": 99,
+      "title": "Podoloji",
+      "slug": "podoloji",
+      "group": {
+        "id": 28,
+        "groupName": "Podolog"
+      }
+    },
+    {
+      "id": 192,
+      "branchOrder": 99,
+      "title": "Bütüncül Tıp",
+      "slug": "butuncul-tip",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 193,
+      "branchOrder": 99,
+      "title": "Odyolog",
+      "slug": "odyolog",
+      "group": {
+        "id": 30,
+        "groupName": "Odyolog"
+      }
+    },
+    {
+      "id": 194,
+      "branchOrder": 99,
+      "title": "İş Yeri Hekimi",
+      "slug": "is-yeri-hekimi",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 195,
+      "branchOrder": 99,
+      "title": "Algoloji",
+      "slug": "algoloji",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 196,
+      "branchOrder": 99,
+      "title": "Fonksiyonel Tıp",
+      "slug": "fonksiyonel-tip",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1048,
+      "branchOrder": 99,
+      "title": "Nefroloji",
+      "titleSeo": "Nefroloji",
+      "titleSpecial": "Nefrolog",
+      "slug": "nefroloji",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1049,
+      "branchOrder": 99,
+      "title": "Jinekolojik Onkoloji Cerrahisi",
+      "titleSeo": "Jinekolojik Onkoloji Cerrahisi",
+      "titleSpecial": "Jinekolojik onkolog",
+      "slug": "jinekolojik-onkoloji",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1058,
+      "branchOrder": 99,
+      "title": "İmmünoloji",
+      "titleSeo": "İmmünoloji",
+      "titleSpecial": "İmmünolog",
+      "slug": "immunoloji",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1065,
+      "branchOrder": 99,
+      "title": "Çocuk Nörolojisi",
+      "titleSeo": "Çocuk Nörolojisi",
+      "titleSpecial": "Çocuk nörologu",
+      "slug": "cocuk-norolojisi",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1068,
+      "branchOrder": 99,
+      "title": "Çocuk Endokrinolojisi ve Metabolizma Hastalıkları",
+      "titleSeo": "Çocuk Endokrinolojisi ve Metabolizma Hastalıkları",
+      "titleSpecial": "Çocuk endokrinoloğu",
+      "slug": "cocuk-endokrinoloji",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1071,
+      "branchOrder": 99,
+      "title": "Hematoloji",
+      "titleSeo": "Hematoloji",
+      "titleSpecial": "Hematolog",
+      "slug": "hematoloji",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1091,
+      "branchOrder": 99,
+      "title": "Çocuk Hematolojisi",
+      "titleSeo": "Çocuk Hematolojisi",
+      "titleSpecial": "Çocuk hematoloğu",
+      "slug": "cocuk-hematoloji",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1096,
+      "branchOrder": 99,
+      "title": "Çocuk Nefrolojisi",
+      "titleSeo": "Çocuk Nefrolojisi",
+      "titleSpecial": "Çocuk nefroloğu",
+      "slug": "cocuk-nefrolojisi",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1137,
+      "branchOrder": 99,
+      "title": "Çocuk Yoğun Bakımı",
+      "titleSeo": "Çocuk Yoğun Bakımı",
+      "titleSpecial": "Çocuk yoğun bakım doktoru",
+      "slug": "cocuk-yogun-bakimi",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1141,
+      "branchOrder": 99,
+      "title": "Gastroenteroloji Cerrahisi",
+      "titleSeo": "Gastroenteroloji Cerrahisi",
+      "titleSpecial": "Gastro cerrahisi",
+      "slug": "gastroenteroloji-cerrahisi",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1148,
+      "branchOrder": 99,
+      "title": "Mikoloji",
+      "titleSeo": "Mikoloji",
+      "titleSpecial": "Mikolog",
+      "slug": "tibbi-mikrobiyoloji-mikoloji",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1149,
+      "branchOrder": 99,
+      "title": "Viroloji",
+      "titleSeo": "Viroloji",
+      "titleSpecial": "Virolog",
+      "slug": "tibbi-mikrobiyoloji-viroloji",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1150,
+      "branchOrder": 99,
+      "title": "Dermatopatoloji",
+      "titleSeo": "Dermatopatoloji",
+      "titleSpecial": "Dermatopataloji uzmanı",
+      "slug": "dermatopatoloji",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1154,
+      "branchOrder": 99,
+      "title": "Klinik Genetik",
+      "titleSeo": "Klinik Genetik",
+      "titleSpecial": "Klinik genetik uzmanı",
+      "slug": "klinik-genetik",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1162,
+      "branchOrder": 99,
+      "title": "Klinik Nörofizyoloji",
+      "titleSeo": "Klinik Nörofizyoloji",
+      "titleSpecial": "Klinik nörofizyolog",
+      "slug": "klinik-norofizyoloji",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1170,
+      "branchOrder": 99,
+      "title": "İmmünoloji ve Alerji Hastalıkları (Göğüs Hastalıkları)",
+      "titleSeo": "İmmünoloji ve Alerji Hastalıkları (Göğüs Hastalıkları)",
+      "titleSpecial": "Alerjik hastalıklar hekimi",
+      "slug": "gogus-hastaliklari-immunoloji-ve-alerji-hastaliklari",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1173,
+      "branchOrder": 99,
+      "title": "Toksikoloji (Adli Tıp)",
+      "titleSeo": "Toksikoloji (Adli Tıp)",
+      "titleSpecial": "Toksikoloji uzmanı",
+      "slug": "adli-tip-toksikoloji",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1181,
+      "branchOrder": 99,
+      "title": "Endodonti (Kanal Tedavisi)",
+      "titleSeo": "Endodonti (Kanal Tedavisi)",
+      "titleSpecial": "Endodontist",
+      "slug": "endodonti",
+      "group": {
+        "id": 2,
+        "groupName": "Diş Hekimliği"
+      }
+    },
+    {
+      "id": 1183,
+      "branchOrder": 99,
+      "title": "Oral Diagnoz ve Radyoloji",
+      "titleSeo": "Oral Diagnoz ve Radyoloji",
+      "titleSpecial": "Oral diagnoz uzmanı",
+      "slug": "oral-diagnoz-ve-radyoloji",
+      "group": {
+        "id": 2,
+        "groupName": "Diş Hekimliği"
+      }
+    },
+    {
+      "id": 1184,
+      "branchOrder": 99,
+      "title": "Oral İmplantoloji",
+      "titleSeo": "Oral İmplantoloji",
+      "titleSpecial": "Oral implantoloji uzmanı",
+      "slug": "oral-implantoloji",
+      "group": {
+        "id": 2,
+        "groupName": "Diş Hekimliği"
+      }
+    },
+    {
+      "id": 1197,
+      "branchOrder": 99,
+      "title": "Üroonkoloji",
+      "titleSeo": "Üroonkoloji",
+      "titleSpecial": "Üroonkolog",
+      "slug": "uroonkoloji",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1201,
+      "branchOrder": 99,
+      "title": "El Cerrahisi ve Mikrocerrahi (Plastik Rekonstrüktif ve Estetik Cerrahi)",
+      "titleSeo": "El Cerrahisi ve Mikrocerrahi (Plastik Rekonstrüktif ve Estetik Cerrahi)",
+      "titleSpecial": "El Cerrahisi ve Mikrocerrahi",
+      "slug": "el-cerrahisi-ve-mikrocerrahi-plastik",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1207,
+      "branchOrder": 99,
+      "title": "Aile Danışmanı (Psikolog)",
+      "titleSeo": "Aile Danışmanı (Psikolog)",
+      "titleSpecial": "aile-danismani-psikolog",
+      "slug": "aile-danismani-psikolog",
+      "group": {
+        "id": 6,
+        "groupName": "Psikolog"
+      }
+    },
+    {
+      "id": 1208,
+      "branchOrder": 99,
+      "title": "Çocuk Ortopedisi",
+      "titleSeo": "Çocuk Ortopedisi",
+      "titleSpecial": "Çocuk Ortopedisi",
+      "slug": "cocuk-ortopedisi",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1209,
+      "branchOrder": 99,
+      "title": "Osteopati",
+      "titleSeo": "Osteopati",
+      "titleSpecial": "Osteopati Uzmanı",
+      "slug": "osteopati",
+      "group": {
+        "id": 10,
+        "groupName": "Fizyoterapist"
+      }
+    },
+    {
+      "id": 1218,
+      "branchOrder": 120,
+      "title": "Harp Cerrahisi",
+      "titleSeo": "1",
+      "titleSpecial": "Harp Cerrahisi",
+      "slug": "harp-cerrahisi",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1219,
+      "branchOrder": 131,
+      "title": "Gastroenteroloji Cerrahisi",
+      "titleSeo": "2",
+      "titleSpecial": "Gastroenteroloji Cerrahisi",
+      "slug": "gastroenteroloji-cerrahisi-1",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    },
+    {
+      "id": 1215,
+      "branchOrder": 250,
+      "title": "Çocuk Gelişim",
+      "titleSeo": "Çocuk Gelişim",
+      "titleSpecial": "Çocuk Gelişim",
+      "slug": "cocuk-gelisim",
+      "group": {
+        "id": 33,
+        "groupName": "Çocuk Gelişim"
+      }
+    },
+    {
+      "id": 1217,
+      "branchOrder": 999,
+      "title": "Tanısal Radyoloji",
+      "titleSeo": "Tanısal Radyoloji",
+      "titleSpecial": "Tanısal Radyoloji",
+      "slug": "tanisal-radyoloji",
+      "group": {
+        "id": 1,
+        "groupName": "Tıp Doktoru"
+      }
+    }
+  ]
+}

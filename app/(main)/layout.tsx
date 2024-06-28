@@ -14,7 +14,7 @@ export default function Layout({ children }: Props) {
         {children}
 
         
-    <Footer />
+     <Footer />
     </div>
   );
 }

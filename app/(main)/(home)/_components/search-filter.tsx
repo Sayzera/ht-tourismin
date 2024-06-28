@@ -11,7 +11,7 @@ type Props = {};
 
 function SearchFilter({}: Props) {
   return (
-    <Card>
+    <Card className="shadow-md">
       <CardContent className="w-full h-full grid grid-cols-1 md:grid-cols-12 items-center p-0 ">
         <div className="h-full w-full flex md:col-span-6 ">
           <Input
