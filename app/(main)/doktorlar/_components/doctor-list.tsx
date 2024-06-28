@@ -71,7 +71,7 @@ const doctors = [
 
 export default function DoctorList({}: Props) {
   return (
-    <div className="grid grid-cols-1 md:grid-cols-12 md:*:gap-4">
+    <div className="grid grid-cols-1 md:grid-cols-12 md:gap-4">
       <div
         className="
             col-span-1 md:col-span-8
