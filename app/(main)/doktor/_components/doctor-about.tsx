@@ -48,7 +48,7 @@ export default function DoctorAbout({}: Props) {
             ve etik değerlere bağlılığıyla da tanınmaktadır. Hastalarıyla
             kurduğu güçlü iletişim ve onların iyileşme süreçlerine gösterdiği
             özen, onu meslektaşlarından ayıran önemli özelliklerdendir. Beyin ve
-            sinir cerrahisi gibi hayati bir alanda, Prof. Dr. Sezer Bölük'ün
+            sinir cerrahisi gibi hayati bir alanda, Prof. Dr. Sezer Bölük&apos;ün
             liderliği ve uzmanlığı, sayısız hastanın yaşam kalitesini artırmakta
             ve onlara yeni bir umut kapısı açmaktadır.
           </p>
