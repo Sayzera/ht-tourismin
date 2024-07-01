@@ -1,13 +1,14 @@
 "use client";
 
 import React from "react";
-import logo from "@/public/assets/logo/logo.svg";
+import logo from "@/public/assets/image/logo/logo.svg";
 import Image from "next/image";
 import { FaRegHeart } from "react-icons/fa";
 import { TfiWorld } from "react-icons/tfi";
 import { FaRegUserCircle } from "react-icons/fa";
 import { CiMenuBurger } from "react-icons/ci";
 import NavigationItem from "./navigation-item";
+import Link from "next/link";
 
 type Props = {};
 
@@ -17,7 +18,9 @@ function NavigationHorizontalBar({}: Props) {
       <div className="px-[2rem] h-full md:w-[1020px] md:mx-auto md:px-0">
         <div className="flex justify-between w-full h-full">
           <div className="flex  items-center ">
+            <Link href="/">
             <Image src={logo} alt="Logo" width={0} height={0} />
+            </Link>
           </div>
           <div className="flex h-full">
             <NavigationItem

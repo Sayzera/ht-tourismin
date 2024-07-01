@@ -1,7 +1,7 @@
 "use client";
 import React from "react";
 import { Card, CardContent, CardFooter } from "@/components/ui/card";
-import doctor_4 from "@/public/assets/doctors/doctor-4.jpg";
+import doctor_4 from "@/public/assets/image/doctors/doctor-4.jpg";
 import Image, { StaticImageData } from "next/image";
 import { CiCircleCheck, CiLocationOn } from "react-icons/ci";
 import { FaLocationDot } from "react-icons/fa6";

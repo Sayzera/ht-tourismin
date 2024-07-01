@@ -6,8 +6,9 @@ import { CiLocationOn } from "react-icons/ci";
 import { Badge } from "@/components/ui/badge";
 
 import Image, { StaticImageData } from "next/image";
-import doctor_1 from "@/public/assets/doctors/doctor-1.png";
+import doctor_1 from "@/public/assets/image/doctors/doctor-1.png";
 import { Button } from "@/components/ui/button";
+import { Separator } from "@/components/ui/separator";
 export type DoctorCardsProps = {
   image: StaticImageData;
   title: string;
@@ -104,6 +105,8 @@ function DoctorCard({
             </Button>
           </div>
         </div>
+
+    
       </CardContent>
     </Card>
   );

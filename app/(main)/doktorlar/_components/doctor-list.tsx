@@ -4,9 +4,9 @@ import React from "react";
 import DoctorItem from "./doctor-item";
 import DoctorsMap from "./doctors-map";
 
-import doctor_1 from '@/public/assets/doctors/doctor-4.jpg';
-import doctor_2 from '@/public/assets/doctors/doctor-5.jpg';
-import doctor_3 from '@/public/assets/doctors/doctor-6.jpg';
+import doctor_1 from '@/public/assets/image/doctors/doctor-4.jpg';
+import doctor_2 from '@/public/assets/image/doctors/doctor-5.jpg';
+import doctor_3 from '@/public/assets/image/doctors/doctor-6.jpg';
 
 type Props = {};
 

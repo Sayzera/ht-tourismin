@@ -1,8 +1,8 @@
 import React from 'react'
 import OverviewItem from './overview-item'
-import image1 from '@/public/assets/home/image-1.png'
-import image2 from '@/public/assets/home/image-2.png'
-import image3 from '@/public/assets/home/image-3.png'
+import image1 from '@/public/assets/image/home/image-1.png'
+import image2 from '@/public/assets/image/home/image-2.png'
+import image3 from '@/public/assets/image/home/image-3.png'
 type Props = {}
 
 export default function Overview({}: Props) {

@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "@/public/assets/logo/logo.svg";
+import logo from "@/public/assets/image/logo/logo.svg";
 import Image from "next/image";
 import { CiFacebook } from "react-icons/ci";
 import { RiTwitterXFill } from "react-icons/ri";

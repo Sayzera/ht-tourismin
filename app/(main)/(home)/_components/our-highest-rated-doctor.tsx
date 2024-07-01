@@ -8,12 +8,14 @@ import {
   CarouselPrevious,
 } from "@/components/ui/carousel";
 import DoctorCard, { DoctorCardsProps } from "./doctor-card";
-import doctor_1 from "@/public/assets/doctors/doctor-1.png";
-import doctor_2 from "@/public/assets/doctors/doctor-2.png";
-import doctor_3 from "@/public/assets/doctors/doctor-3.png";
+import doctor_1 from "@/public/assets/image/doctors/doctor-1.png";
+import doctor_2 from "@/public/assets/image/doctors/doctor-2.png";
+import doctor_3 from "@/public/assets/image/doctors/doctor-3.png";
+import { useRouter } from "next/navigation";
 type Props = {};
 
-const OurHighestRatedDoctors = (props: Props) => {
+const OurHighestRatedDoctors = (props: Props) => {  
+  const router = useRouter()
 
   const doctors = [
     {
@@ -26,7 +28,9 @@ const OurHighestRatedDoctors = (props: Props) => {
       location: 'Ankara',
       specialities: ['Nöroloji', 'Nöroşirurji'],
       image: doctor_1,
-      onClick: () => {}
+      onClick: () => {
+        router.push('/doktor/1')
+      }
     },
     {
       name: 'Abdullah Savran',
@@ -38,7 +42,9 @@ const OurHighestRatedDoctors = (props: Props) => {
       location: 'İstanbul',
       image: doctor_2,
       specialities: ['Otoloji ve Nörootoloji', 'Rinoloji', 'Laringoloji'],
-      onClick: () => {}
+      onClick: () => {
+        router.push('/doktor/1')
+      }
     },
     {
       name: 'Aleyna Ay',
@@ -50,7 +56,9 @@ const OurHighestRatedDoctors = (props: Props) => {
       location: 'İzmir',
       image: doctor_3,
       specialities: ['Ortodonti', 'Estetik Diş Hekimliği'],
-      onClick: () => {}
+      onClick: () => {
+        router.push('/doktor/1')
+      }
 
 
     }
